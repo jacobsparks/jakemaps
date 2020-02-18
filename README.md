@@ -1,1 +1,1 @@
-# jakemaps
+# A simple Python script that allows you to perform Google Map searches from your Run line. You can either input the place or address yourself, or allow the script to take whatever has been to copied to your clipboard as an argument.
